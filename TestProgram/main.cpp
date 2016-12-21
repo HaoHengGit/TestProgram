@@ -9,5 +9,6 @@ void main()
 
 	if (test())
 	{
+		printf("This is the first project which is managed by Git");
 	}
 }
