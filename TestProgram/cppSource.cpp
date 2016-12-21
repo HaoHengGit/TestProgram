@@ -6,5 +6,6 @@ int main1(int argc, char** argv)
 {
 	print(3);
 
+
 	return 0;
 }
